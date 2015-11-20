@@ -9,10 +9,15 @@
   "author": "Ben Styles",
   "license": "MIT",
   "dependencies": {
-    "underscore-contrib": "git+https://github.com/Leeds-eBooks/underscore-contrib.git#underscore_1_8_3"
+    "bluebird": "^3.0.5",
+    "copy": "^0.1.2",
+    "glob": "^6.0.1",
+    "mkdirp": "^0.5.1",
+    "node-unzip-2": "^0.2.1",
+    "underscore-contrib": "git+https://github.com/Leeds-eBooks/underscore-contrib.git#underscore_1_8_3",
+    "xmldom": "^0.1.19"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.1.18",
-    "xmldom": "^0.1.19"
+    "babel-preset-es2015": "^6.1.18"
   }
 }
